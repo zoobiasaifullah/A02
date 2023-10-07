@@ -45,3 +45,37 @@ WebStorm is a powerful IDE for modern JavaScript development. WebStorm provides 
 
 The list of actions in the popup depends on the currently enabled VCS.
 
+# Glossary
+
+<strong> Branch: </strong> A branch is a parallel version of a repository. It is contained within the repository, but does not affect the primary or main branch allowing you to work freely without disrupting the "live" version. When you've made the changes you want to make, you can merge your branch back into the main branch to publish your changes.
+
+<strong> Clone: </strong> A clone is a copy of a repository that lives on your computer instead of on a website's server somewhere, or the act of making that copy.
+
+<strong> Commit: </strong> A commit is an individual change to a file (or set of files). When you make a commit to save your work, Git creates a unique ID that allows you to keep record of the specific changes committed along with who made them and when.
+
+<strong> Fetch: </strong> When you use git fetch, you're adding changes from the remote repository to your local working branch without committing them.
+
+<strong> Merge: </strong> Merging takes the changes from one branch (in the same repository or from a fork), and applies them into another. 
+
+<strong> Merge Conflict: </strong> Merge conflicts happen when people make different changes to the same line of the same file, or when one person edits a file and another person deletes the same file.
+
+<strong> Push: </strong> To push means to send your committed changes to a remote repository on GitHub.com. For instance, if you change something locally, you can push those changes so that others may access them.
+
+<strong> Pull: </strong> Pull refers to when you are fetching in changes and merging them. For instance, if someone has edited the remote file you're both working on, you'll want to pull in those changes to your local copy so that it's up to date.
+
+<strong> Remote: </strong> This is the version of a repository or branch that is hosted on a server, most likely GitHub.com. Remote versions can be connected to local clones so that changes can be synced.
+
+<strong> Repository: </strong>  A repository contains all of the project files (including documentation), and stores each file's revision history.
+
+<strong> Git: </strong> An open source version control system on the hard drive.
+
+<strong> GitHub: </strong> An open source version control system with cloud storage.
+
+# References
+https://www.jetbrains.com/help/webstorm/getting-started-with-webstorm.html
+
+https://devmountain.com/blog/git-vs-github-whats-the-difference/
+
+https://njit.instructure.com/courses/30780/files/5214587/download?download_frd=1
+
+https://docs.github.com/en/get-started/quickstart/github-glossary
